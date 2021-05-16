@@ -1,0 +1,211 @@
+{
+    "India":{
+        "country":["India"],
+        "mobileNo":["112"]
+    },
+    "United States of America":{
+        "country":["United States of America"],
+        "mobileNo":["991"]
+    },
+    
+    "Afghanistan":{
+        "country":["Afghanistan"],
+        "mobileNo":["112"]
+    },
+    
+    "Bahrain":{
+        "country":["Bahrain"],
+        "mobileNo":["999"]
+    },
+    "Bangladesh":{
+        "country":["Bangladesh"],
+        "mobileNo":["999"]
+    },
+    "Bhutan":{
+        "country":["Bhutan"],
+        "mobileNo":["112"]
+    },
+    "Brunei":{
+        "country":["Brunei"],
+        "mobileNo":["991"]
+    },
+    "Myanmar":{
+        "country":["Myanmar"],
+        "mobileNo":["999"]
+    },
+    "Cambodia":{
+        "country":["Cambodia"],
+        "mobileNo":["119"]
+    },
+    "People's Republic of China":{
+        "country":["People's Republic of China"],
+        "mobileNo":["120"]
+    },
+    "Christmas Island":{
+        "country":["Christmas Island"],
+        "mobileNo":["000"]
+    },
+    "Cocos Islands":{
+        "country":["Cocos Islands"],
+        "mobileNo":["000"]
+    },
+    "East Timor":{
+        "country":["East Timor"],
+        "mobileNo":["112"]
+    },
+    "Hong Kong":{
+        "country":["Hong Kong"],
+        "mobileNo":["999"]
+    },
+    "Indonesia":{
+        "country":["Indonesia"],
+        "mobileNo":["112"]
+    },
+    
+    "Iran":{
+        "country":["Iran"],
+        "mobileNo":["115"]
+    },
+    
+    "Iraq":{
+        "country":["Iraq"],
+        "mobileNo":["991"]
+    },
+    "Israel":{
+        "country":["Israel"],
+        "mobileNo":["101"]
+    },
+    "Japan":{
+        "country":["Japan"],
+        "mobileNo":["119"]
+    },
+    "Jordan":{
+        "country":["Jordan"],
+        "mobileNo":["991"]
+    },
+    "Kazakhstan":{
+        "country":["Kazakhstan"],
+        "mobileNo":["112"]
+    },
+    "Kyrgyzstan":{
+        "country":["Kyrgyzstan"],
+        "mobileNo":["103"]
+    },
+    "Republic of Korea":{
+        "country":["Republic of Korea"],
+        "mobileNo":["119"]
+    },
+    "Kuwait":{
+        "country":["Kuwait"],
+        "mobileNo":["112"]
+    },
+    "Laos":{
+        "country":["Laos"],
+        "mobileNo":["195"]
+    },
+    "Lebanon":{
+        "country":["Lebanon"],
+        "mobileNo":["140"]
+    },
+    "Macau":{
+        "country":["Macau"],
+        "mobileNo":["999"]
+    },
+    "Maldives":{
+        "country":["Maldives"],
+        "mobileNo":["112"]
+    },
+    "Malaysia":{
+        "country":["Malaysia"],
+        "mobileNo":["999"]
+    },
+    "Mongolia":{
+        "country":["Mongolia"],
+        "mobileNo":["105"]
+    },
+    "Nepal":{
+        "country":["Nepal"],
+        "mobileNo":["102"]
+    },
+    "Oman":{
+        "country":["Oman"],
+        "mobileNo":["102"]
+    },
+    "Philippines":{
+        "country":["Philippines"],
+        "mobileNo":["991"]
+    },
+    "Qatar":{
+        "country":["Qatar"],
+        "mobileNo":["999"]
+    },
+    "Saudi Arabia":{
+        "country":["Saudi Arabia"],
+        "mobileNo":["991"]
+    },
+    "Singapore":{
+        "country":["Singapore"],
+        "mobileNo":["995"]
+    },
+    "Sri Lanka":{
+        "country":["Sri Lanka"],
+        "mobileNo":["110"]
+    },
+    "Syria":{
+        "country":["Syria"],
+        "mobileNo":["110"]
+    },
+    "Republic of China":{
+        "country":["Republic of China"],
+        "mobileNo":["119"]
+    },
+    "Tajikistan":{
+        "country":["Tajikistan"],
+        "mobileNo":["112"]
+    },
+    "Thailand":{
+        "country":["Thailand"],
+        "mobileNo":["1669"]
+    },
+    "Turkmenistan":{
+        "country":["Turkmenistan"],
+        "mobileNo":["112"]
+    },
+    "United Arab Emirates":{
+        "country":["United Arab Emirates"],
+        "mobileNo":["999"]
+    },
+    "Uzbekistan":{
+        "country":["Uzbekistan"],
+        "mobileNo":["101"]
+    },
+    "Vietnam":{
+        "country":["Vietnam"],
+        "mobileNo":["115"]
+    },
+    "Yemen":{
+        "country":["Yemen"],
+        "mobileNo":["191"]
+    },
+    "Antarctica":{
+        "country":["Antarctica"],
+        "mobileNo":["991"]
+    },
+    "Bermuda":{
+        "country":["Bermuda"],
+        "mobileNo":["991"]
+    },
+    "Canada":{
+        "country":["Canada"],
+        "mobileNo":["991"]
+    },
+    "Mexico":{
+        "country":["Mexico"],
+        "mobileNo":["991"]
+    },
+    "Saint Pierre and Miquelon":{
+        "country":["Saint Pierre and Miquelon"],
+        "mobileNo":["112"]
+    }
+
+}
